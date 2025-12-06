@@ -1,7 +1,0 @@
-flask
-pillow
-rembg
-onnxruntime
-google-cloud-aiplatform
-protobuf
-python-dotenv
